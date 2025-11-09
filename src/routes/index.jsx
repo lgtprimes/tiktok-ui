@@ -1,4 +1,4 @@
-// Layout
+//Layout
 import { HeaderOnly } from '@components/Layout'
 
 //Pages
